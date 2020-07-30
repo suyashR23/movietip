@@ -6,6 +6,6 @@ document.querySelector('.button').addEventListener('click',function(){
 
 document.querySelector('.btn').addEventListener('click',function(){
 	document.querySelector('.btn').classList.toggle('active');
-	window.open('suyashr23.github.io/genre','blank');	
+	window.open('https://suyashr23.github.io/genre','blank');	
 });
 
